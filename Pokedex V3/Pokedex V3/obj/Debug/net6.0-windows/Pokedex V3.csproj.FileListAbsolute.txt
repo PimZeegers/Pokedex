@@ -1,0 +1,19 @@
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\bin\Debug\net6.0-windows\Pokedex V3.exe
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\bin\Debug\net6.0-windows\Pokedex V3.deps.json
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\bin\Debug\net6.0-windows\Pokedex V3.runtimeconfig.json
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\bin\Debug\net6.0-windows\Pokedex V3.dll
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\bin\Debug\net6.0-windows\Pokedex V3.pdb
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.csproj.AssemblyReference.cache
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex_V3.Form1.resources
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.csproj.GenerateResource.cache
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.AssemblyInfoInputs.cache
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.AssemblyInfo.cs
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.csproj.CoreCompileInputs.cache
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.dll
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\refint\Pokedex V3.dll
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.pdb
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex V3.genruntimeconfig.cache
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\ref\Pokedex V3.dll
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex_V3.Properties.Resources.resources
+C:\Users\Pim Zeegers\source\repos\Pokedex V3\Pokedex V3\obj\Debug\net6.0-windows\Pokedex_V3.pokemon.resources
